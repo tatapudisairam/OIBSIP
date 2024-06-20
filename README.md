@@ -7,6 +7,9 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository:
+1. Run in the frontend directory:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   npm install
+
+   ```sh
+   npm install react-router-dom
